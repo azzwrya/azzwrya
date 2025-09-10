@@ -27,9 +27,9 @@ I'm a passionate **Computer Science student** specializing in **AI** with a focu
 
 ### 📌 Projects
 
-🔹 **[Skin Cancer Detection Model](#)** – Developed a **deep learning model** using Python and TensorFlow/Keras to detect skin cancer from the HAM10000 dataset, achieving **87% accuracy**.  
+🔹 **[Skin Cancer Detection Model](https://github.com/azzwrya/Skin_Cancer_Detection)** – Developed a **deep learning model** using Python and TensorFlow/Keras to detect skin cancer from the HAM10000 dataset, achieving **87% accuracy**.  
 
-🔹 **[Sentiment Analysis Web App](#)** – Built a **Streamlit web app** integrated with Hugging Face Transformers to perform **real-time sentiment analysis** on user-input text with interactive visualization.  
+🔹 **[Sentiment Analysis Web App](https://github.com/azzwrya/streamlit-sentiment-analysis)** – Built a **Streamlit web app** integrated with Hugging Face Transformers to perform **real-time sentiment analysis** on user-input text with interactive visualization.  
 
 ---
 
