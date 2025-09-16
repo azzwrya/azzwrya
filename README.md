@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Aishwarya Sinha! 🚀
+## 👋 Hey there, I'm Aishwarya Sinha! 🚀
 
 ### 🚀 About Me
 I'm a passionate **Computer Science student** specializing in **AI** with a focus on building innovative and impactful solutions. My expertise lies in **Generative AI, 3D Graphics, and Full-Stack Development**. I love tackling complex problems and pushing the boundaries of what's possible with technology.
